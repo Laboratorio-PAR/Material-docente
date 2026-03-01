@@ -1,0 +1,2 @@
+from . import geometria  # exponemos la clase geometria para que sea accesible desde fuera de este paquete
+from . import aritmetica # exponemos la clase aritmetica para que sea accesible desde fuera de este paquete
