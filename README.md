@@ -12,6 +12,10 @@ Prof.: **Jordi Pozo.**
 
 En este repositorio se encuentran los ejercicios de los laboratorios,los    
 contenidos teóricos relativos a la parte práctica así como los enunciados   
+<<<<<<< Updated upstream
 de las prácticas y ejemplos varios sobre uso de python.
+=======
+de las prácticas y ejemplos varios sobre uso de python.    
+>>>>>>> Stashed changes
 
 Enlace a vídeo de configuración de [Python](https://youtu.be/H8wHilhhdxc)
